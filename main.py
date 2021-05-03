@@ -32,11 +32,3 @@ def factorial(n):
 num = int(input("Choose a Positive Int: "))
 
 print(" The factorial of " + str(num) + " is " + str(factorial(num)))
-
-
-
-# Fibonacci Sequence
-# NOTE: Keep Adding the Last 2 Numbers
-# 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 45, .....
-
-# 1. With a Loop
